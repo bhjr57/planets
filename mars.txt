@@ -1,2 +1,4 @@
+Mars is red.
 Mars is dry.
+Curiosity is there!
 
